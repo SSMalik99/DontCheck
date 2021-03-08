@@ -1,0 +1,15 @@
+.infoText{
+    font-size: larger; 
+    background-color: cadetblue;
+    color: white; 
+    text-align: center;
+    margin:auto; width:50%;
+}
+.textPara{
+    font-weight: bold;
+    font-size: larger;
+    background-color: darkgray;
+    color: blue;
+    margin-left: 5%;
+    margin-right: 5%;
+}
